@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/admin.html.twig</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/db/content.sql</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/Form/Type/ArticleType.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/login.html.twig</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/app/app.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/phpunit.xml.dist</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/Controller/HomeController.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/app/routes.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/tests/Tests/AppTest.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/article_form.html.twig</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/Domain/Article.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/DAO/CommentDAO.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/DAO/DAO.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/Domain/User.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/composer.json</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/index.html.twig</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/app/config/prod.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/error.html.twig</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/Domain/Comment.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/web/.htaccess</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/layout.html.twig</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/DAO/UserDAO.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/DAO/ArticleDAO.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/app/config/dev.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/src/Controller/AdminController.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/web/css/microcms.css</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/db/structure.sql</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/web/index.php</file>
+            <file>file:/Users/raphaeltastet/Sites/microcms/views/article.html.twig</file>
+        </group>
+    </open-files>
+</project-private>
