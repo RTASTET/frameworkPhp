@@ -1,15 +1,4 @@
 {
-    "name": "microcms/microcms",
-    "type": "framework",
-    "description": "CMS based on Silex",
-    "keywords": ["cms","framework","silex"],
-    "homepage": "https://github.com/RTASTET/frameworkPhp",
-    "authors": [
-        {
-            "name": "R Tastet",
-            "role": "Developer"
-        }
-    ],
     "require": { 
             "silex/silex" : "1.3.*",
             "doctrine/dbal": "2.5.*",
